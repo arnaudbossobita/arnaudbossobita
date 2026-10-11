@@ -7,7 +7,7 @@ Senior Software Engineer. I build and optimize business-critical enterprise soft
 - Building modern REST APIs and backend applications with .NET
 - Exploring AI engineering with .NET, including AI agents, AI-assisted developper productivity, and Retrieval-Augmented Generation (RAG)
 - Expanding my experience with React, React Native and TypeScript
-
+<!--
 ### 📌 Selected work
 
 - [Enterprise REST API](...) — production-style .NET API demonstrating architecture, authentication, testing, SQL Server, Docker, and CI/CD
@@ -15,7 +15,7 @@ Senior Software Engineer. I build and optimize business-critical enterprise soft
 - [AI-Assisted Development Skills](...) — reusable AI skills for software engineering workflows, including scoping, architecture, planning, implementation, and verification
 - [AI Chatbot with RAG in .NET](...) — AI chatbot exploring semantic search and Retrieval-Augmented Generation (RAG) over custom data
 - [React + TypeScript](...) — hands-on project exploring modern frontend development with React and TypeScript
-
+-->
 ### 🛠️ Tech I work with
 
 <p align="center">
